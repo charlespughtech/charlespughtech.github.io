@@ -1,1 +1,2 @@
 I created a GitHub Pages websaite in order to showcase my data analytics projects in a visually appealing manner. It contains hyperlinks to projects and hyprlinks to contact me. Please feel free to reach out if you would like to utilise my data analytics services.
+URL: https://charlespughtech.github.io
